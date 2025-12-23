@@ -29,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
