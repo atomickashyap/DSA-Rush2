@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 ## String
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -43,13 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
