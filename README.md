@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
