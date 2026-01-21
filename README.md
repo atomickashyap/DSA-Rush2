@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atomickashyap/DSA-Rush2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3453-separate-squares-i) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
 | ------- |
