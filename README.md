@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atomickashyap/DSA-Rush2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
