@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/atomickashyap/DSA-Rush2/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/atomickashyap/DSA-Rush2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/atomickashyap/DSA-Rush2/tree/master/1200-minimum-absolute-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/atomickashyap/DSA-Rush2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/atomickashyap/DSA-Rush2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 | [3453-separate-squares-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3453-separate-squares-i) |
