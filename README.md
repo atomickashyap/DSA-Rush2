@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/atomickashyap/DSA-Rush2/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/atomickashyap/DSA-Rush2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/atomickashyap/DSA-Rush2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
