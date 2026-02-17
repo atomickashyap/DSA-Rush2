@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/atomickashyap/DSA-Rush2/tree/master/0401-binary-watch) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3713-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/atomickashyap/DSA-Rush2/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
