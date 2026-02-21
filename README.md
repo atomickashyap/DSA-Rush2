@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atomickashyap/DSA-Rush2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/atomickashyap/DSA-Rush2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/1448-maximum-69-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atomickashyap/DSA-Rush2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/atomickashyap/DSA-Rush2/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atomickashyap/DSA-Rush2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
