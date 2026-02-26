@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/atomickashyap/DSA-Rush2/tree/master/0696-count-binary-substrings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atomickashyap/DSA-Rush2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atomickashyap/DSA-Rush2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
