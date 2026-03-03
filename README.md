@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/atomickashyap/DSA-Rush2/tree/master/0696-count-binary-substrings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/atomickashyap/DSA-Rush2/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/atomickashyap/DSA-Rush2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atomickashyap/DSA-Rush2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/atomickashyap/DSA-Rush2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/atomickashyap/DSA-Rush2/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/atomickashyap/DSA-Rush2/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atomickashyap/DSA-Rush2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/atomickashyap/DSA-Rush2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/atomickashyap/DSA-Rush2/tree/master/0696-count-binary-substrings) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/atomickashyap/DSA-Rush2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
