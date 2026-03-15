@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atomickashyap/DSA-Rush2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/atomickashyap/DSA-Rush2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/atomickashyap/DSA-Rush2/tree/master/1622-fancy-sequence) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atomickashyap/DSA-Rush2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/atomickashyap/DSA-Rush2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/atomickashyap/DSA-Rush2/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/atomickashyap/DSA-Rush2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/atomickashyap/DSA-Rush2/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
