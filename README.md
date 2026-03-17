@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/1448-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/atomickashyap/DSA-Rush2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/atomickashyap/DSA-Rush2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/atomickashyap/DSA-Rush2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/atomickashyap/DSA-Rush2/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/atomickashyap/DSA-Rush2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atomickashyap/DSA-Rush2/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/atomickashyap/DSA-Rush2/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/atomickashyap/DSA-Rush2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/atomickashyap/DSA-Rush2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/atomickashyap/DSA-Rush2/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/atomickashyap/DSA-Rush2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/atomickashyap/DSA-Rush2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
