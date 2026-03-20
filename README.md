@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3640-trionic-array-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/atomickashyap/DSA-Rush2/tree/master/2054-two-best-non-overlapping-events) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/atomickashyap/DSA-Rush2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/atomickashyap/DSA-Rush2/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
