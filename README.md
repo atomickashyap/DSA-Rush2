@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/atomickashyap/DSA-Rush2/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3721-longest-balanced-subarray-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/atomickashyap/DSA-Rush2/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/atomickashyap/DSA-Rush2/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
 | ------- |
