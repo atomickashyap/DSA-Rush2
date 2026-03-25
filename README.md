@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3637-trionic-array-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/atomickashyap/DSA-Rush2/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/atomickashyap/DSA-Rush2/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/atomickashyap/DSA-Rush2/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
 |  |
