@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atomickashyap/DSA-Rush2/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/atomickashyap/DSA-Rush2/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/atomickashyap/DSA-Rush2/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atomickashyap/DSA-Rush2/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/atomickashyap/DSA-Rush2/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/atomickashyap/DSA-Rush2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
