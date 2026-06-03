@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/atomickashyap/DSA-Rush2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/atomickashyap/DSA-Rush2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/atomickashyap/DSA-Rush2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/atomickashyap/DSA-Rush2/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/atomickashyap/DSA-Rush2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/atomickashyap/DSA-Rush2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atomickashyap/DSA-Rush2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atomickashyap/DSA-Rush2/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/atomickashyap/DSA-Rush2/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/atomickashyap/DSA-Rush2/tree/master/0876-middle-of-the-linked-list) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/atomickashyap/DSA-Rush2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atomickashyap/DSA-Rush2/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
